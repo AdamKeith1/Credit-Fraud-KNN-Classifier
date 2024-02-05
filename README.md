@@ -1,1 +1,1 @@
-# Credit-Fraud-Model
+# Credit-Fraud-Detection
